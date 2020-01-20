@@ -15,6 +15,7 @@ Please check our original paper for more algorithm details.
 <img src="https://raw.githubusercontent.com/PaperID-4824/ContinualLocalReplacement/master/images/tsne_visualization2.gif" height="300px" alt="demo2" >
 <img src="https://raw.githubusercontent.com/PaperID-4824/ContinualLocalReplacement/master/images/tsne_visualization1.gif" height="300px" alt="demo1" >
 </div>
+
 ![demo3](https://raw.githubusercontent.com/PaperID-4824/ContinualLocalReplacement/master/images/saliency_map.png)
 
 
