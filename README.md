@@ -19,10 +19,6 @@ Please check our original paper for more algorithm details.
 ![demo3](https://raw.githubusercontent.com/PaperID-4824/ContinualLocalReplacement/master/images/saliency_map.png)
 
 
-The figures below show typical fine tune procedures
-------------
-![demo4](https://raw.githubusercontent.com/PaperID-4824/ContinualLocalReplacement/master/images/fine_tune_procedure.png)
-
 # 1. Prerequisites
 This code is implemented on Pytorch. 
 So you may need to install
