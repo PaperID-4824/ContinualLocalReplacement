@@ -19,7 +19,7 @@ Please check our original paper for more algorithm details.
 ![demo3](https://raw.githubusercontent.com/PaperID-4824/ContinualLocalReplacement/master/images/saliency_map.png)
 
 
-The figure below shows typical fine tune procedures
+The figures below show typical fine tune procedures
 ------------
 ![demo4](https://raw.githubusercontent.com/PaperID-4824/ContinualLocalReplacement/master/images/fine_tune_procedure.png)
 
@@ -68,24 +68,10 @@ python ./test.py --dataset miniImagenet/tieredImagenet/CUB/caltech256 --method i
 
 # 3. Datasets and Pre-trained Parameters
 We provide our pre-trained parameters for reproducing the results in the paper.
-You can download them from [HERE](ftp://graphics.xmu.edu.cn/checkpoints_for_paper_results.zip).
+You can download them from [HERE](https://drive.google.com/open?id=1Jpm5EVYAssa-NapMrkEgk5gM5p6o-tkD).
  
 To make it convenient, we also provide links for downloading the experiment datasets ([MiniImagenet](ftp://graphics.xmu.edu.cn/miniImagenet_.zip), [TieredImagenet](ftp://graphics.xmu.edu.cn/tiered_imagenet.tar), [CUB-200](ftp://graphics.xmu.edu.cn/CUB200.tgz), [Caltech-256](ftp://graphics.xmu.edu.cn/caltech256.tar)) even though people can download them from original sources or official websites.
 
-
-# 4. Citation
-If our work is useful in your research, please cite 
-
-```
-Will do
-```
-
-# 5. References
-This implementation builds upon several open-souce codes.
-Specifically, we have modified and integrated the following codes into this repository:
-
-* CloserLookFewShot https://github.com/wyharveychen/CloserLookFewShot
-* Weight Imprinting https://github.com/YU1ut/imprinted-weights
 
 
 
