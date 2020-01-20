@@ -9,15 +9,18 @@ This algorithm is based on standard transfer learning and thus it has a good sca
 For example, it can be easily combined with the weight imprinting technique.
 
 This repository includes the source codes of ContinualLocalReplacement and its weight imprinting variant.
-Please check our published paper for more algorithm details (XXX).
+Please check our original paper for more algorithm details.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Lecanyu/ContinualLocalReplacement/master/images/tsne_visualization2.gif" height="300px" alt="demo2" >
-<img src="https://raw.githubusercontent.com/Lecanyu/ContinualLocalReplacement/master/images/tsne_visualization1.gif" height="300px" alt="demo1" >
+<img src="https://raw.githubusercontent.com/PaperID-4824/ContinualLocalReplacement/master/images/tsne_visualization2.gif" height="300px" alt="demo2" >
+<img src="https://raw.githubusercontent.com/PaperID-4824/ContinualLocalReplacement/master/images/tsne_visualization1.gif" height="300px" alt="demo1" >
 </div>
+![demo3](https://raw.githubusercontent.com/PaperID-4824/ContinualLocalReplacement/master/images/saliency_map.png)
 
-![demo3](https://raw.githubusercontent.com/Lecanyu/ContinualLocalReplacement/master/images/saliency_map.png)
 
+The figure below shows typical fine tune procedures
+------------
+![demo4](https://raw.githubusercontent.com/PaperID-4824/ContinualLocalReplacement/master/images/fine_tune_procedure.png)
 
 # 1. Prerequisites
 This code is implemented on Pytorch. 
