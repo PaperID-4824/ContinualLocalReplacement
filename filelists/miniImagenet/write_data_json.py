@@ -5,7 +5,7 @@ Generate json files. Following the standard format in original repository https:
 import os
 import glob
 
-data_path = "/home/CanyuLe/mini-imagenet-original"  # use original mini-imagenet
+data_path = "/home/datasets_for_ML/mini-imagenet-original"  # use original mini-imagenet
 # data_path = "D:/mini-imagenet-original"
 
 train_path = os.path.join(data_path, "train")
