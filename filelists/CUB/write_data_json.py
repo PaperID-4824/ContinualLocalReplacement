@@ -6,7 +6,7 @@ import json
 import random
 
 
-data_path = os.path.join("/home/CanyuLe/CUB_200_2011/images")
+data_path = os.path.join("/home/datasets_for_ML/CUB_200_2011/images")
 # data_path = "D:/datasets_for_ML/CUB_200_2011/images"
 
 savedir = './'
