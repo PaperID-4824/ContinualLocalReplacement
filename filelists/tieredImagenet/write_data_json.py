@@ -5,7 +5,7 @@ Generate json files. Following the standard format in original repository https:
 import os
 import glob
 
-data_path = os.path.join("/home/CanyuLe/tiered_imagenet")
+data_path = os.path.join("/home/datasets_for_ML/tiered_imagenet")
 # data_path = os.path.join("D:/datasets_for_ML/tiered_imagenet")
 
 train_path = os.path.join(data_path, "train")
