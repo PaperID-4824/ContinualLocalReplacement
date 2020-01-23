@@ -6,7 +6,7 @@ import json
 import random
 
 
-data_path = "/home/CanyuLe/caltech256"
+data_path = "/home/datasets_for_ML/caltech256"
 # data_path = "D:/datasets_for_ML/CUB_200_2011/images"
 
 
